@@ -7,3 +7,9 @@
 # 替换至API
  url = "https://sns-comment.iqiyi.com/v3/comment/get_comments.action?agent_type=118&agent_version=9.11.5&authcookie=null&business_type=17&content_id=7222400481724500&page=&page_size=10&types=time&last_id="
 的content_id字段即可。
+
+
+# 正则表达式提取评论文本
+
+# 其他数据待研究
+发现该API返回的还有其他用户信息。
