@@ -11,5 +11,13 @@
 
 # 正则表达式提取评论文本
 
-# 其他数据待研究
-发现该API返回的还有其他用户信息。
+# API返回内容
+- id :该条评论ID
+- content :评论内容
+- addTime :评论时间戳
+- userinfo :评论用户信息
+  - uid :用户ID
+  - uname ：用户名
+  - gender ：性别
+  - likes ：点赞数
+  - vipType ：1(是VIP)；0(不是VIP)
