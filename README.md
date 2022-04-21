@@ -15,9 +15,9 @@
 - id :该条评论ID
 - content :评论内容
 - addTime :评论时间戳
+- likes ：点赞数
 - userinfo :评论用户信息
   - uid :用户ID
   - uname ：用户名
   - gender ：性别
-  - likes ：点赞数
   - vipType ：1(是VIP)；0(不是VIP)
